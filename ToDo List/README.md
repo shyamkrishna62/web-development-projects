@@ -3,7 +3,7 @@
 • ✏️ Edit existing tasks
 • ✅ Mark tasks as completed
 • ❌ Delete tasks individually
-• 📱 Responsive design for desktop and mobile
+• 📱 Responsive design for desktop
 • 💾 Local storage support (tasks persist even after refreshing the page)
 
 ⸻
@@ -20,7 +20,7 @@
 └── README.md # Project documentation
 
 📌 Future Enhancements
-• Task categories & filters
+• Task categories 
 • Due dates & reminders
 • Dark mode support
 • Cloud sync with authentication
