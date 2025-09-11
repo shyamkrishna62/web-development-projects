@@ -1,0 +1,1 @@
+# This repository contains a collection of web development projects built using modern technologies. Each project is designed to demonstrate different concepts, from basic layouts to dynamic applications, showcasing front-end and full-stack development skills
