@@ -14,10 +14,13 @@
         </label>
         <button><img src="images/search.png" alt=""/></button>
     </div>
+    <div class="error">
+        <p>Invalid city name</p>
+    </div>
     <div class="weather">
         <img src="images/rain.png" class="weather-icon" alt=""/>
         <h1 class="temp">22°c</h1>
-        <h2 class="city">Rishikesh</h2>
+        <h2 class="city">New York</h2>
         <div class="details">
             <div class="col">
                 <img src="images/humidity.png" alt=""/>
@@ -36,13 +39,6 @@
         </div>
     </div>
 </div>
-<script>
-    const apiKey = "e8de88beae39c54ef2e039b6d349c777";
-    const apiUrl = "https://api.openweathermap.org/data/2.5/weather?unit=metric&q=Rishikesh";
-
-    async function checkWeather() {
-        const response = await fetch(apiUrl + `&appid=${apiKey}`);
-    }
-</script>
+<script src="script.js"></script>
 </body>
 </html>
