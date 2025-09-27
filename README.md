@@ -9,6 +9,7 @@ different front-end concepts like layouts, styling, interactivity, and API integ
 
 - 🌦️ Weather App
 - 📝 To-Do List
+- ❓ Quiz App
 
 ---
 
