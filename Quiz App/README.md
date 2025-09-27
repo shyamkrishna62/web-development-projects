@@ -22,10 +22,10 @@ Users can answer multiple-choice questions, track their score, and get instant f
 ---
 
 ## 📂 Project Structure
-├── index.html        # Main HTML file
-├── style.css         # Styling
-├── script.js         # Quiz functionality
-└── README.md         # Project documentation
+- ├── index.html        # Main HTML file
+- ├── style.css         # Styling
+- ├── script.js         # Quiz functionality
+- └── README.md         # Project documentation
 
 ---
 
